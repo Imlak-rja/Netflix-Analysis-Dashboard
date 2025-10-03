@@ -37,5 +37,5 @@ TOOLS that have used : Vlookup, Conditional Formatting, Pivot table, Power Query
 
 Final Dashboard:
 
-![Dashboard](https://user-images.githubusercontent.com/105886845/210431205-51a4f39c-396b-4316-b7b2-1157eda532dd.png)
+![Dashboard](https://github.com/Imlak-rja/Netflix-Analysis-Dashboard/blob/main/Netflix%20Analysis.png)
 
